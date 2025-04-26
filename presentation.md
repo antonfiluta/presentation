@@ -1,6 +1,6 @@
 link to video: https://youtu.be/yo4BzcOpveY
 
-link to Reveal slide deck: 
+link to Reveal slide deck: https://antonfiluta.github.io/reveal-2.js-master/#/5/12
 
 Text:
 
